@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <!-- Schéma générique et fictif : aucune information d'entreprise. -->
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity=".14"/></pattern>
+    <radialGradient id="h" cx="50%" cy="0%" r="80%"><stop offset="0" stop-color="#1fbf74" stop-opacity=".24"/><stop offset="1" stop-color="#07090d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#07090d"/><rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#h)"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <rect x="620" y="120" width="360" height="110" rx="18" fill="#0d1117" stroke="#3fe08f" stroke-opacity=".6" stroke-width="2"/>
+    <text x="800" y="170" font-size="24" fill="#eef1f5" text-anchor="middle">Root management group</text>
+    <text x="800" y="205" font-size="18" fill="#3fe08f" text-anchor="middle">policies · RBAC</text>
+    <path d="M800 230v70M420 300h760M420 300v60M800 300v60M1180 300v60" fill="none" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+    <g>
+      <rect x="290" y="360" width="260" height="100" rx="16" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+      <text x="420" y="420" font-size="22" fill="#eef1f5" text-anchor="middle">MG · Platform</text>
+      <rect x="670" y="360" width="260" height="100" rx="16" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+      <text x="800" y="420" font-size="22" fill="#eef1f5" text-anchor="middle">MG · Workloads</text>
+      <rect x="1050" y="360" width="260" height="100" rx="16" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+      <text x="1180" y="420" font-size="22" fill="#eef1f5" text-anchor="middle">MG · Sandbox</text>
+    </g>
+    <path d="M420 460v60M800 460v60M1180 460v60" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+    <g font-size="18" text-anchor="middle">
+      <rect x="320" y="520" width="200" height="70" rx="12" fill="none" stroke="#94a3b8" stroke-opacity=".3" stroke-width="2" stroke-dasharray="6 6"/><text x="420" y="562" fill="#a3acb9">sub-example-01</text>
+      <rect x="700" y="520" width="200" height="70" rx="12" fill="none" stroke="#94a3b8" stroke-opacity=".3" stroke-width="2" stroke-dasharray="6 6"/><text x="800" y="562" fill="#a3acb9">sub-example-02</text>
+      <rect x="1080" y="520" width="200" height="70" rx="12" fill="none" stroke="#94a3b8" stroke-opacity=".3" stroke-width="2" stroke-dasharray="6 6"/><text x="1180" y="562" fill="#a3acb9">sub-example-03</text>
+    </g>
+    <rect x="420" y="660" width="760" height="120" rx="18" fill="#4fd1b5" fill-opacity=".06" stroke="#4fd1b5" stroke-opacity=".45" stroke-width="2"/>
+    <text x="460" y="708" font-size="20" fill="#4fd1b5">compliance dashboard</text>
+    <rect x="460" y="732" width="420" height="16" rx="8" fill="#4fd1b5" fill-opacity=".55"/>
+    <rect x="890" y="732" width="120" height="16" rx="8" fill="#f2b45a" fill-opacity=".6"/>
+    <rect x="1020" y="732" width="60" height="16" rx="8" fill="#94a3b8" fill-opacity=".3"/>
+    <text x="1140" y="708" font-size="16" fill="#8090ab" text-anchor="end">fictitious example</text>
+  </g>
+</svg>

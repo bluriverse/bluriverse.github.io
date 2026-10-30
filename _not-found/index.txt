@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/27gjg8e11zukd.js"
+3:I[22016,["$2"],""]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+9:I[97367,["$2"],"OutletBoundary"]
+a:"$Sreact.suspense"
+c:"ViewportBoundary"
+d:I[97367,["$2"],"$c"]
+f:"MetadataBoundary"
+10:I[97367,["$2"],"$f"]
+12:I[68027,[],"default",1]
+:HL["/_next/static/chunks/1iesbv20amtgn.css","style"]
+7:X
+8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[null,null,["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"p":false,"v":null}}]]
+4:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$7"},"c":"$Q8"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1iesbv20amtgn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/27gjg8e11zukd.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"fr","className":"UOsvBW_variable nOHoAG_variable PHhD9W_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{if(localStorage.getItem(\"theme\")===\"light\"){var d=document.documentElement;d.setAttribute(\"data-theme\",\"light\");document.addEventListener(\"DOMContentLoaded\",function(){var m=document.querySelector('meta[name=\"theme-color\"]');if(m)m.setAttribute(\"content\",\"#f6f6f3\");});}}catch(e){}})();"}}]}],["$","body",null,{"className":"page-backdrop flex min-h-screen items-center justify-center px-4","children":["$","main",null,{"className":"max-w-md text-center","children":[["$","p",null,{"className":"eyebrow","children":"Erreur 404"}],["$","h1",null,{"className":"mt-4 text-3xl font-semibold text-fg","children":"Page introuvable"}],["$","p",null,{"className":"mt-3 text-muted","children":"Cette page n'existe pas ou a été déplacée."}],["$","p",null,{"lang":"en","className":"mt-1 text-sm text-subtle","children":"This page doesn't exist or has moved."}],["$","div",null,{"className":"mt-8 flex justify-center gap-3 text-sm","children":[["$","$L3",null,{"href":"/fr/","className":"rounded-lg bg-action px-4 py-2.5 font-medium text-on-action","children":"Accueil"}],["$","$L3",null,{"href":"/en/","lang":"en","className":"rounded-lg border border-line-strong px-4 py-2.5 text-fg","children":"Home"}]]}]]}]}]]}]]}],"p":false,"v":null},"c":"$Q4"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Ld",null,{"children":"$Le"}],["$","$L10",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$a",null,{"name":"Next.Metadata","children":"$L11"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$12",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"S8YcP1F-n1wUuIELKiczb"}
+7:C
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+11:[["$","title","0",{"children":"404 — Page introuvable / Page not found"}],["$","meta","1",{"name":"robots","content":"noindex"}]]

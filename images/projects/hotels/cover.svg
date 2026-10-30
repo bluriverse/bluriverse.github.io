@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <!-- Illustration schématique du laboratoire « Bluriverse Hotels » (aucune donnée réelle). -->
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity=".14"/></pattern>
+    <radialGradient id="h" cx="72%" cy="30%" r="80%"><stop offset="0" stop-color="#1fbf74" stop-opacity=".18"/><stop offset="1" stop-color="#07090d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#07090d"/><rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#h)"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <!-- Domaine -->
+    <rect x="110" y="300" width="300" height="300" rx="22" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+    <rect x="150" y="345" width="200" height="14" rx="7" fill="#3fe08f" fill-opacity=".6"/>
+    <rect x="150" y="375" width="150" height="12" rx="6" fill="#94a3b8" fill-opacity=".3"/>
+    <text x="150" y="500" font-family="Segoe UI, sans-serif" font-size="40" font-weight="700" fill="#eef1f5">DC01</text>
+    <text x="150" y="540" font-size="20" fill="#a3acb9">bluriverse.corp</text>
+    <!-- GPO -->
+    <path d="M410 450H600" stroke="#3fe08f" stroke-width="3" stroke-dasharray="10 10"/>
+    <path d="M590 438 612 450 590 462" fill="none" stroke="#3fe08f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="505" y="425" font-size="17" fill="#3fe08f" text-anchor="middle">C_T2_HARDENING</text>
+    <text x="505" y="490" font-size="17" fill="#8090ab" text-anchor="middle">_RECEPTION</text>
+    <!-- Réception -->
+    <rect x="620" y="210" width="500" height="480" rx="28" fill="#3fe08f" fill-opacity=".04" stroke="#3fe08f" stroke-opacity=".45" stroke-width="2" stroke-dasharray="10 10"/>
+    <text x="650" y="255" font-size="20" fill="#a3acb9">Réception · Hôtel Versailles</text>
+    <rect x="660" y="300" width="270" height="180" rx="14" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".4" stroke-width="2"/>
+    <rect x="690" y="330" width="210" height="12" rx="6" fill="#4fd1b5" fill-opacity=".6"/>
+    <rect x="690" y="356" width="160" height="10" rx="5" fill="#94a3b8" fill-opacity=".3"/>
+    <rect x="690" y="378" width="180" height="10" rx="5" fill="#94a3b8" fill-opacity=".3"/>
+    <path d="M770 480v40M730 520h80" stroke="#94a3b8" stroke-opacity=".5" stroke-width="3" stroke-linecap="round"/>
+    <text x="690" y="580" font-family="Segoe UI, sans-serif" font-size="34" font-weight="700" fill="#eef1f5">RECEP01</text>
+    <text x="690" y="615" font-size="18" fill="#a3acb9">BitLocker · ASR · USB bloqué</text>
+    <!-- Terminal de paiement -->
+    <rect x="975" y="330" width="105" height="160" rx="14" fill="#0d1117" stroke="#f2b45a" stroke-opacity=".7" stroke-width="2"/>
+    <rect x="995" y="352" width="65" height="40" rx="6" fill="#f2b45a" fill-opacity=".25"/>
+    <g fill="#f2b45a" fill-opacity=".55"><circle cx="1005" cy="420" r="7"/><circle cx="1028" cy="420" r="7"/><circle cx="1051" cy="420" r="7"/><circle cx="1005" cy="448" r="7"/><circle cx="1028" cy="448" r="7"/><circle cx="1051" cy="448" r="7"/></g>
+    <text x="1027" y="525" font-size="17" fill="#f2b45a" text-anchor="middle">paiement</text>
+    <!-- Mesure -->
+    <rect x="1190" y="300" width="300" height="300" rx="22" fill="#0d1117" stroke="#4fd1b5" stroke-opacity=".45" stroke-width="2"/>
+    <text x="1225" y="350" font-size="18" fill="#8090ab">27 contrôles</text>
+    <text x="1225" y="430" font-family="Segoe UI, sans-serif" font-size="56" font-weight="700" fill="#8090ab">48 %</text>
+    <path d="M1225 455h120" stroke="#4fd1b5" stroke-width="3" stroke-linecap="round"/>
+    <path d="M1335 445 1350 455 1335 465" fill="none" stroke="#4fd1b5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1225" y="540" font-family="Segoe UI, sans-serif" font-size="72" font-weight="700" fill="#3fe08f">96 %</text>
+  </g>
+</svg>

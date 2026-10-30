@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://bluriverse.github.io/fr/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/bluriverse-active-directory-security-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-active-directory-security-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-active-directory-security-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/bluriverse-active-directory-security-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-active-directory-security-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-active-directory-security-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/bluriverse-hotels-reception-workstation-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/bluriverse-hotels-reception-workstation-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/powershell-identity-automation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/powershell-identity-automation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/powershell-identity-automation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/powershell-identity-automation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/powershell-identity-automation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/powershell-identity-automation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/active-directory-audit-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/active-directory-audit-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/active-directory-audit-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/active-directory-audit-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/active-directory-audit-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/active-directory-audit-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/azure-security-governance/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/azure-security-governance/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/azure-security-governance/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/azure-security-governance/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/azure-security-governance/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/azure-security-governance/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/microsoft-infrastructure-modernisation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/microsoft-infrastructure-modernisation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/microsoft-infrastructure-modernisation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/microsoft-infrastructure-modernisation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/microsoft-infrastructure-modernisation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/microsoft-infrastructure-modernisation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/jarvis-zero-trust-local-ai-assistant/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/jarvis-zero-trust-local-ai-assistant/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/jarvis-zero-trust-local-ai-assistant/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/jarvis-zero-trust-local-ai-assistant/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/jarvis-zero-trust-local-ai-assistant/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/jarvis-zero-trust-local-ai-assistant/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/immoradar-local-real-estate-monitoring/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/immoradar-local-real-estate-monitoring/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/immoradar-local-real-estate-monitoring/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/immoradar-local-real-estate-monitoring/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/immoradar-local-real-estate-monitoring/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/immoradar-local-real-estate-monitoring/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/aerial-football-unreal-prototype/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/aerial-football-unreal-prototype/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/aerial-football-unreal-prototype/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/aerial-football-unreal-prototype/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/aerial-football-unreal-prototype/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/aerial-football-unreal-prototype/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
