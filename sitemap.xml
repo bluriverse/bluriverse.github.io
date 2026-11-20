@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://bluriverse.github.io/fr/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/bluriverse-active-directory-security-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-active-directory-security-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-active-directory-security-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/bluriverse-active-directory-security-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-active-directory-security-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-active-directory-security-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/bluriverse-hotels-reception-workstation-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/bluriverse-hotels-reception-workstation-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/bluriverse-hotels-reception-workstation-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/powershell-identity-automation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/powershell-identity-automation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/powershell-identity-automation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/powershell-identity-automation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/powershell-identity-automation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/powershell-identity-automation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/active-directory-audit-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/active-directory-audit-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/active-directory-audit-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/active-directory-audit-hardening/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/active-directory-audit-hardening/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/active-directory-audit-hardening/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/azure-security-governance/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/azure-security-governance/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/azure-security-governance/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/azure-security-governance/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/azure-security-governance/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/azure-security-governance/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/microsoft-infrastructure-modernisation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/microsoft-infrastructure-modernisation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/microsoft-infrastructure-modernisation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/microsoft-infrastructure-modernisation/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/microsoft-infrastructure-modernisation/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/microsoft-infrastructure-modernisation/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/jarvis-zero-trust-local-ai-assistant/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/jarvis-zero-trust-local-ai-assistant/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/jarvis-zero-trust-local-ai-assistant/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/jarvis-zero-trust-local-ai-assistant/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/jarvis-zero-trust-local-ai-assistant/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/jarvis-zero-trust-local-ai-assistant/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/immoradar-local-real-estate-monitoring/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/immoradar-local-real-estate-monitoring/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/immoradar-local-real-estate-monitoring/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/immoradar-local-real-estate-monitoring/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/immoradar-local-real-estate-monitoring/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/immoradar-local-real-estate-monitoring/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/projects/aerial-football-unreal-prototype/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/aerial-football-unreal-prototype/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/aerial-football-unreal-prototype/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/projects/aerial-football-unreal-prototype/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/projects/aerial-football-unreal-prototype/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/projects/aerial-football-unreal-prototype/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/gallery/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/gallery/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/gallery/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/gallery/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/gallery/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/gallery/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/projects/jarvis-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/projects/jarvis-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/projects/jarvis-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/projects/jarvis-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/projects/jarvis-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/projects/jarvis-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/projects/ai-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/projects/ai-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/projects/ai-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/projects/ai-lab/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/projects/ai-lab/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/projects/ai-lab/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/projects/game-dev/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/projects/game-dev/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/projects/game-dev/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/projects/game-dev/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/projects/game-dev/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/projects/game-dev/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/rocket-league/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/rocket-league/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/rocket-league/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/rocket-league/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/rocket-league/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/rocket-league/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/league-of-legends/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/league-of-legends/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/league-of-legends/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/league-of-legends/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/league-of-legends/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/league-of-legends/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/counter-strike-2/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/counter-strike-2/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/counter-strike-2/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/counter-strike-2/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/counter-strike-2/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/counter-strike-2/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/assetto-corsa/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/assetto-corsa/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/assetto-corsa/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/assetto-corsa/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/assetto-corsa/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/assetto-corsa/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/krosmaga/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/krosmaga/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/krosmaga/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/krosmaga/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/krosmaga/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/krosmaga/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/valorant/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/valorant/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/valorant/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/valorant/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/valorant/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/valorant/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/rematch/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/rematch/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/rematch/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/rematch/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/rematch/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/rematch/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/paladins/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/paladins/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/paladins/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/paladins/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/paladins/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/paladins/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/overwatch/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/overwatch/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/overwatch/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/overwatch/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/overwatch/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/overwatch/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/speedrunners/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/speedrunners/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/speedrunners/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/speedrunners/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/speedrunners/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/speedrunners/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/tekken/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/tekken/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/tekken/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/tekken/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/tekken/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/tekken/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/warframe/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/warframe/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/warframe/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/warframe/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/warframe/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/warframe/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/pokemon-revolution/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/pokemon-revolution/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/pokemon-revolution/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/pokemon-revolution/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/pokemon-revolution/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/pokemon-revolution/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/splash-fighters/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/splash-fighters/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/splash-fighters/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/splash-fighters/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/splash-fighters/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/splash-fighters/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/fr/player/games/s4league/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/s4league/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/s4league/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://bluriverse.github.io/en/player/games/s4league/</loc>
+<xhtml:link rel="alternate" hreflang="fr-FR" href="https://bluriverse.github.io/fr/player/games/s4league/" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://bluriverse.github.io/en/player/games/s4league/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>

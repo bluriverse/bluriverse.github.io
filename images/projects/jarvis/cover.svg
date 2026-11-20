@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <!-- Illustration schématique : LLM local → passerelle (politique, approbation) → action confinée + journal d'audit chaîné (aucune capture réelle). -->
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity=".14"/></pattern>
+    <radialGradient id="h" cx="50%" cy="15%" r="80%"><stop offset="0" stop-color="#1fbf74" stop-opacity=".2"/><stop offset="1" stop-color="#07090d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#07090d"/><rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#h)"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <!-- LLM local -->
+    <g transform="translate(120 290)">
+      <rect width="300" height="300" rx="22" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+      <circle cx="150" cy="120" r="56" fill="none" stroke="#3fe08f" stroke-width="3"/>
+      <circle cx="150" cy="120" r="32" fill="#3fe08f" fill-opacity=".18" stroke="#3fe08f" stroke-opacity=".6" stroke-width="2"/>
+      <text x="150" y="226" font-size="24" fill="#3fe08f" text-anchor="middle">local LLM</text>
+      <text x="150" y="262" font-size="17" fill="#8090ab" text-anchor="middle">proposes only</text>
+    </g>
+
+    <path d="M440 440 H580" stroke="#3fe08f" stroke-width="3" stroke-dasharray="8 8"/><path d="M565 428l15 12-15 12" fill="none" stroke="#3fe08f" stroke-width="3"/>
+
+    <!-- Passerelle -->
+    <g transform="translate(600 170)">
+      <rect width="400" height="540" rx="24" fill="#070b14" stroke="#3fe08f" stroke-opacity=".55" stroke-width="2"/>
+      <path d="M200 52 l58 22 v52 c0 44 -26 72 -58 86 c-32 -14 -58 -42 -58 -86 v-52 z" fill="#3fe08f" fill-opacity=".1" stroke="#3fe08f" stroke-width="3"/>
+      <path d="M176 128 l16 16 32 -34" fill="none" stroke="#3fe08f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="200" y="262" font-size="24" fill="#eef1f5" text-anchor="middle">gateway</text>
+      <g font-size="18">
+        <rect x="40" y="300" width="320" height="52" rx="12" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".3"/><text x="62" y="333" fill="#a3acb9">policy</text><text x="338" y="333" fill="#4fd1b5" text-anchor="end">ALLOW</text>
+        <rect x="40" y="366" width="320" height="52" rx="12" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".3"/><text x="62" y="399" fill="#a3acb9">approval</text><text x="338" y="399" fill="#c4a7ff" text-anchor="end">voice + TOTP</text>
+        <rect x="40" y="432" width="320" height="52" rx="12" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".3"/><text x="62" y="465" fill="#a3acb9">default</text><text x="338" y="465" fill="#f2b45a" text-anchor="end">DENY</text>
+      </g>
+    </g>
+
+    <path d="M1020 330 H1160" stroke="#4fd1b5" stroke-width="3"/><path d="M1145 318l15 12-15 12" fill="none" stroke="#4fd1b5" stroke-width="3"/>
+    <path d="M1020 560 H1160" stroke="#94a3b8" stroke-opacity=".6" stroke-width="3" stroke-dasharray="8 8"/>
+
+    <!-- Action confinée -->
+    <g transform="translate(1180 220)">
+      <rect width="300" height="200" rx="20" fill="#4fd1b5" fill-opacity=".08" stroke="#4fd1b5" stroke-opacity=".5" stroke-width="2"/>
+      <text x="30" y="58" font-size="21" fill="#4fd1b5">scoped action</text>
+      <rect x="30" y="88" width="200" height="12" rx="6" fill="#4fd1b5" fill-opacity=".35"/>
+      <rect x="30" y="116" width="140" height="12" rx="6" fill="#4fd1b5" fill-opacity=".2"/>
+      <text x="30" y="170" font-size="17" fill="#8090ab">least privilege</text>
+    </g>
+
+    <!-- Journal chaîné -->
+    <g transform="translate(1180 470)">
+      <rect width="300" height="200" rx="20" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+      <text x="30" y="58" font-size="21" fill="#eef1f5">audit log</text>
+      <g fill="#0d1117" stroke="#3fe08f" stroke-opacity=".6" stroke-width="2">
+        <rect x="30" y="92" width="60" height="44" rx="8"/><rect x="120" y="92" width="60" height="44" rx="8"/><rect x="210" y="92" width="60" height="44" rx="8"/>
+      </g>
+      <path d="M90 114 H120 M180 114 H210" stroke="#3fe08f" stroke-width="2"/>
+      <text x="30" y="176" font-size="17" fill="#8090ab">append-only · SHA-256</text>
+    </g>
+  </g>
+</svg>

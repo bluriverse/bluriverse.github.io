@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <!-- Illustration schématique des migrations (aucune donnée réelle). -->
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity=".14"/></pattern>
+    <radialGradient id="h" cx="80%" cy="30%" r="80%"><stop offset="0" stop-color="#1fbf74" stop-opacity=".2"/><stop offset="1" stop-color="#07090d" stop-opacity="0"/></radialGradient>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 10 5 0 10z" fill="#3fe08f"/></marker>
+  </defs>
+  <rect width="1600" height="900" fill="#07090d"/><rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#h)"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <g>
+      <rect x="180" y="220" width="380" height="150" rx="20" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".3" stroke-width="2"/>
+      <text x="220" y="282" font-size="22" fill="#8090ab">legacy</text>
+      <text x="220" y="330" font-family="Sora, Segoe UI, sans-serif" font-size="32" font-weight="600" fill="#a3acb9">Windows Server 2012</text>
+      <path d="M590 295h330" stroke="#3fe08f" stroke-width="3" marker-end="url(#a)"/>
+      <rect x="950" y="220" width="420" height="150" rx="20" fill="#3fe08f" fill-opacity=".07" stroke="#3fe08f" stroke-opacity=".55" stroke-width="2"/>
+      <text x="990" y="282" font-size="22" fill="#3fe08f">modern</text>
+      <text x="990" y="330" font-family="Sora, Segoe UI, sans-serif" font-size="32" font-weight="600" fill="#eef1f5">Windows Server 2022</text>
+    </g>
+    <g>
+      <rect x="180" y="520" width="380" height="150" rx="20" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".3" stroke-width="2"/>
+      <text x="220" y="582" font-size="22" fill="#8090ab">on-premises</text>
+      <text x="220" y="630" font-family="Sora, Segoe UI, sans-serif" font-size="32" font-weight="600" fill="#a3acb9">VMware vCenter</text>
+      <path d="M590 595h330" stroke="#3fe08f" stroke-width="3" marker-end="url(#a)"/>
+      <rect x="950" y="520" width="420" height="150" rx="20" fill="#4fd1b5" fill-opacity=".07" stroke="#4fd1b5" stroke-opacity=".55" stroke-width="2"/>
+      <text x="990" y="582" font-size="22" fill="#4fd1b5">cloud</text>
+      <text x="990" y="630" font-family="Sora, Segoe UI, sans-serif" font-size="32" font-weight="600" fill="#eef1f5">Microsoft Azure</text>
+    </g>
+    <text x="755" y="455" font-size="20" fill="#8090ab" text-anchor="middle">assess · harden · migrate · verify</text>
+  </g>
+</svg>

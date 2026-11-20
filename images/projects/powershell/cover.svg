@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <!-- Illustration schématique : flux CSV → script PowerShell → Active Directory + journaux. -->
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity=".14"/></pattern>
+    <radialGradient id="h" cx="50%" cy="10%" r="80%"><stop offset="0" stop-color="#1fbf74" stop-opacity=".2"/><stop offset="1" stop-color="#07090d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#07090d"/><rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#h)"/>
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <rect x="140" y="270" width="320" height="360" rx="22" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+    <text x="180" y="330" font-size="26" fill="#3fe08f">users.csv</text>
+    <g font-size="19" fill="#a3acb9"><text x="180" y="390">sam;ou;dept</text><text x="180" y="430">user01;IT;SEC</text><text x="180" y="470">user02;HR;HR</text><text x="180" y="510">user03;FIN;ACC</text></g>
+    <rect x="180" y="560" width="200" height="12" rx="6" fill="#94a3b8" fill-opacity=".25"/>
+
+    <path d="M480 450h150" stroke="#3fe08f" stroke-width="3"/><path d="M615 438l15 12-15 12" fill="none" stroke="#3fe08f" stroke-width="3"/>
+
+    <rect x="650" y="210" width="400" height="480" rx="22" fill="#070b14" stroke="#3fe08f" stroke-opacity=".5" stroke-width="2"/>
+    <circle cx="690" cy="248" r="7" fill="#ff5f57" fill-opacity=".7"/><circle cx="714" cy="248" r="7" fill="#febc2e" fill-opacity=".7"/><circle cx="738" cy="248" r="7" fill="#28c840" fill-opacity=".7"/>
+    <g font-size="20">
+      <text x="690" y="320" fill="#3fe08f">Import-Csv</text>
+      <text x="690" y="360" fill="#a3acb9">├ Test-Data</text>
+      <text x="690" y="400" fill="#a3acb9">├ Get-ADUser</text>
+      <text x="690" y="440" fill="#c4a7ff">├ New / Set-ADUser</text>
+      <text x="690" y="480" fill="#a3acb9">├ Disable-ADAccount</text>
+      <text x="690" y="520" fill="#4fd1b5">└ Write-Log</text>
+      <text x="690" y="610" fill="#8090ab">-WhatIf · idempotent</text>
+    </g>
+
+    <path d="M1070 360h140" stroke="#3fe08f" stroke-width="3"/><path d="M1195 348l15 12-15 12" fill="none" stroke="#3fe08f" stroke-width="3"/>
+    <path d="M1070 560h140" stroke="#4fd1b5" stroke-width="3" stroke-dasharray="8 8"/>
+
+    <rect x="1230" y="280" width="250" height="160" rx="20" fill="#0d1117" stroke="#94a3b8" stroke-opacity=".35" stroke-width="2"/>
+    <text x="1355" y="350" font-family="Sora, Segoe UI, sans-serif" font-size="30" font-weight="600" fill="#eef1f5" text-anchor="middle">AD DS</text>
+    <text x="1355" y="395" font-size="18" fill="#a3acb9" text-anchor="middle">users · groups</text>
+
+    <rect x="1230" y="490" width="250" height="140" rx="20" fill="#4fd1b5" fill-opacity=".07" stroke="#4fd1b5" stroke-opacity=".5" stroke-width="2"/>
+    <text x="1355" y="555" font-family="Sora, Segoe UI, sans-serif" font-size="28" font-weight="600" fill="#eef1f5" text-anchor="middle">logs</text>
+    <text x="1355" y="595" font-size="18" fill="#4fd1b5" text-anchor="middle">timestamped</text>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <!-- Illustration schématique : trajectoire courbée par l'effet Magnus, cibles aériennes et télémétrie (aucune capture réelle). -->
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94a3b8" fill-opacity=".14"/></pattern>
+    <radialGradient id="h" cx="40%" cy="10%" r="80%"><stop offset="0" stop-color="#1fbf74" stop-opacity=".2"/><stop offset="1" stop-color="#07090d" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#07090d"/><rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#h)"/>
+
+  <!-- Sol de l'arène en perspective -->
+  <g stroke="#94a3b8" stroke-opacity=".22" stroke-width="2" fill="none">
+    <path d="M60 820 L520 560 H1080 L1540 820 Z"/>
+    <path d="M800 560 V820 M290 690 H1310 M660 560 L560 820 M940 560 L1040 820"/>
+    <ellipse cx="800" cy="680" rx="150" ry="40"/>
+  </g>
+
+  <!-- Trajectoire droite (référence) et trajectoire courbée par l'effet Magnus -->
+  <path d="M330 760 L1180 300" stroke="#94a3b8" stroke-opacity=".35" stroke-width="3" stroke-dasharray="6 12" fill="none"/>
+  <path d="M330 760 C620 420 900 200 1180 300" stroke="#3fe08f" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <g fill="#3fe08f"><circle cx="520" cy="560" r="5" fill-opacity=".5"/><circle cx="700" cy="420" r="5" fill-opacity=".6"/><circle cx="880" cy="320" r="5" fill-opacity=".7"/><circle cx="1040" cy="280" r="5" fill-opacity=".8"/></g>
+
+  <!-- Ballon et vecteurs -->
+  <circle cx="330" cy="760" r="26" fill="#0d1117" stroke="#eef1f5" stroke-width="3"/>
+  <path d="M312 748 a22 22 0 0 1 36 0" fill="none" stroke="#c4a7ff" stroke-width="3"/>
+  <path d="M342 742 l8 6 -10 3" fill="none" stroke="#c4a7ff" stroke-width="3"/>
+  <g transform="translate(700 420)">
+    <path d="M0 0 L70 -48" stroke="#eef1f5" stroke-width="3"/><path d="M58 -50 l12 2 -6 11" fill="none" stroke="#eef1f5" stroke-width="3"/>
+    <path d="M0 0 L-34 -58" stroke="#f2b45a" stroke-width="3"/><path d="M-38 -44 l4 -14 9 10" fill="none" stroke="#f2b45a" stroke-width="3"/>
+  </g>
+
+  <!-- Cibles aériennes -->
+  <g fill="none" stroke-width="4">
+    <ellipse cx="1180" cy="300" rx="44" ry="62" stroke="#4fd1b5"/>
+    <ellipse cx="1180" cy="300" rx="22" ry="31" stroke="#4fd1b5" stroke-opacity=".5"/>
+    <ellipse cx="960" cy="170" rx="30" ry="42" stroke="#94a3b8" stroke-opacity=".4"/>
+    <ellipse cx="1360" cy="420" rx="30" ry="42" stroke="#94a3b8" stroke-opacity=".4"/>
+  </g>
+
+  <g font-family="IBM Plex Mono, Consolas, monospace">
+    <g font-size="19"><text x="782" y="372" fill="#eef1f5">v</text><text x="636" y="352" fill="#f2b45a">k·(ω×v)</text></g>
+
+    <!-- Panneau de télémétrie -->
+    <g transform="translate(110 110)">
+      <rect width="380" height="300" rx="22" fill="#070b14" stroke="#3fe08f" stroke-opacity=".5" stroke-width="2"/>
+      <circle cx="40" cy="38" r="7" fill="#ff5f57" fill-opacity=".7"/><circle cx="64" cy="38" r="7" fill="#febc2e" fill-opacity=".7"/><circle cx="88" cy="38" r="7" fill="#28c840" fill-opacity=".7"/>
+      <text x="36" y="96" font-size="21" fill="#3fe08f">physics lab · F1</text>
+      <g font-size="18" fill="#a3acb9"><text x="36" y="146">speed</text><text x="36" y="190">spin ω</text><text x="36" y="234">magnus</text></g>
+      <rect x="170" y="132" width="170" height="12" rx="6" fill="#94a3b8" fill-opacity=".2"/><rect x="170" y="132" width="120" height="12" rx="6" fill="#3fe08f" fill-opacity=".7"/>
+      <rect x="170" y="176" width="170" height="12" rx="6" fill="#94a3b8" fill-opacity=".2"/><rect x="170" y="176" width="80" height="12" rx="6" fill="#c4a7ff" fill-opacity=".7"/>
+      <rect x="170" y="220" width="170" height="12" rx="6" fill="#94a3b8" fill-opacity=".2"/><rect x="170" y="220" width="100" height="12" rx="6" fill="#f2b45a" fill-opacity=".7"/>
+      <text x="36" y="274" font-size="15" fill="#8090ab">live tuning · telemetry</text>
+    </g>
+
+    <!-- Auto-test -->
+    <g transform="translate(1190 600)">
+      <rect width="300" height="130" rx="20" fill="#4fd1b5" fill-opacity=".08" stroke="#4fd1b5" stroke-opacity=".5" stroke-width="2"/>
+      <text x="30" y="54" font-size="21" fill="#4fd1b5">SelfTest</text>
+      <text x="30" y="96" font-size="17" fill="#8090ab">fixed step · 60 Hz</text>
+    </g>
+  </g>
+</svg>
